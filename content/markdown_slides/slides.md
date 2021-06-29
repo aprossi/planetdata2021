@@ -98,6 +98,30 @@ Source: Wright et al. (2021); <a href="https://data.planmap.eu/pub/mercury/PM-ME
 </small>
 
 
+#### Mappy was born to accomodate the WS needs
+
+<small>
+
+* Need to jump-start many students into real geological mapping,  each with different levels of GIS knowledge ➟ **simplify the process as much as possible**
+* Tight time slots ➟ better to **concentrate the efforts on the mapping** rather than in explaining QGIS and the tools 
+* It is already difficult to show basic editing of vector layers, imagine to explain well-made topological-aware editing.
+* we still wanted the students to learn some good practices even if most of it was hidden by Mappy, rather than resorting to a simplified and error-prone process due to lack of time.
+
+</small>
+
+
+#### QGIS plugin system
+
+<small>
+
+* based on python, better if you already also know Qt
+* Mappy was originally exposed as a new Algorihtm available in the processing toolbox, some more interface work on its way (see demo)
+* Almost everything needed was already implemented in QGIS. Indeed initial proof-of concept was made with the Model Designer
+
+</small>
+
+
+
 #### Links to tools
 
 <small>
