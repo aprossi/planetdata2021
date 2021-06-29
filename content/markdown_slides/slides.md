@@ -74,6 +74,16 @@ Source: Wright et al. (2021); <a href="https://data.planmap.eu/pub/mercury/PM-ME
 <iframe data-src="https://www.planetarymapping.eu/" width="1000px" height="400px"></iframe>
 
 
+#### Winter School: asynchronous access
+
+<small>
+
+* Videos and data available from <a href="https://www.europlanet-gmap.eu/2021/04/13/planmap-gmap-winter-school-videos-now-freely-available/" target="_blank">here</a>, e.g.
+<p>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mkZzdBMltwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<small>
+
 
 #### Mappy
 
