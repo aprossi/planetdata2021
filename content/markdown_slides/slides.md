@@ -123,6 +123,16 @@ Source: Wright et al. (2021); <a href="https://data.planmap.eu/pub/mercury/PM-ME
 
 
 
+#### What is NEANIAS
+
+<small>
+
+* <a href="https://www.neanias.eu" target="_blank">Neanias</a> is a 3y project developing services, including planetary science-related ones, for the European Open Science Cloud (<a href="https://eosc-portal.eu/about/eosc" target="_blank">EOSC</a>).
+* Access to data for producing basemaps (MRO CTX, MEX HRSC) is provided by the <a href="https://explorer-space.adamplatform.eu/" target="_blank">ADAM Space</a> platform, see also <a href="https://nbviewer.jupyter.org/github/europlanet-gmap/BasemappingUtils/tree/master/notebooks/ADAMAPI_examples/" target="_blank">ADAM API examples</a>.
+
+<small>
+
+
 #### Links to tools
 
 <small>
